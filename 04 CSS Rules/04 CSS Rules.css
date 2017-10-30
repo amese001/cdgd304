@@ -1,51 +1,51 @@
 
 
 h1 {
-    color: cadetblue;
-    font-family: Verdana;
-    font-size: 60px;  
+    color: lime;
+    font-family: Papyrus;
+    font-size: 240px;  
 }
 h2 {
    text-align: justify;
        font-family: Verdana
-       font-size: 40px;
+       font-size: 160px;
 }
 h3 {
     font-family: Bodoni;
-    font-size: 50px;
+    font-size: 200px;
 }
 h4 {
     font-family: BW Darius;
-    color: darkblue
+    color: lime
 }
 body {
-    background-color: grey
+    background-color: lime
 }
 p {
-    font-family: Verdana;
-    font-size: 15px; 
+    font-family: Papyrus;
+    font-size: 60px; 
 }
 b {
     font-family: Bodoni;
-    font-size: 15px;
+    font-size: 60px;
 }
 ul {
-    color: red;
+    color: lime;
 }
 ol {
-    color: midnight blue
+    color: lime
 }
 blockquote {
-    background-color: dark grey;
-    padding: 15px;
-    color: beige;
+    background-color: lime;
+    padding: 60px;
+    color: lime;
     font-family: Helvetica;
 }
 table, th, td {
       font-family: Vevey;
-                border: 5px solid black;}
+                border: 10px solid lime;}
             {
-                background-color:green
+                background-color:lime
 }
 form {
     font-family: Bodoni;
