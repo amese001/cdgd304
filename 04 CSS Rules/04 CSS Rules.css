@@ -1,0 +1,48 @@
+
+
+h1 {
+    color: cadetblue;
+    font-family: Verdana;
+}
+h2 {
+   text-align: justify;
+       font-family: Verdana
+}
+h3 {
+    font-family: Bodoni;
+}
+h4 {
+    font-family: BW Darius;
+    color: darkblue
+}
+body {
+    background-color: grey
+}
+p {
+    font-size: 15px;
+        font-family: Verdana;
+}
+b {
+    font-family: Bodoni;
+}
+ul {
+    color: red;
+}
+ol {
+    color: midnight blue
+}
+blockquote {
+    background-color: dark grey;
+    padding: 15px;
+    color: beige;
+    font-family: Helvetica;
+}
+table, th, td {
+      font-family: Vevey;
+                border: 5px solid black;}
+            tr:nth-child(even){
+                background-color:green
+}
+form {
+    font-family: Bodoni;
+}
