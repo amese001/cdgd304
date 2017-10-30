@@ -1,52 +1,52 @@
 
 
 h1 {
-    color: cadetblue;
-    font-family: Verdana;
+    color: aqua;
+    font-family: Perla;
     font-size: 60px;  
 }
 h2 {
    text-align: justify;
-       font-family: Verdana;
+       font-family: Perla;
        font-size: 40px;
 }
 h3 {
-    font-family: Bodoni;
+    font-family: Kilowatt;
     font-size: 50px;
 }
 h4 {
-    font-family: BW Darius;
-    color: darkblue
+    font-family: Phosphate;
+    color: lightyellow
 }
 body {
-    background-color: grey
+    background-color: fuchsia
 }
 p {
-    font-family: Verdana;
+    font-family: Perla;
     font-size: 15px; 
 }
 b {
-    font-family: Bodoni;
+    font-family: Kilowatt;
     font-size: 15px;
 }
 ul {
-    color: red;
+    color: coral;
 }
 ol {
-    color: midnightblue
+    color: blueviolet
 }
 blockquote {
-    background-color: darkgrey;
+    background-color: chartreuse;
     padding: 15px;
-    color: beige;
-    font-family: Helvetica;
+    color: lavenderblush;
+    font-family: Blanch;
 }
 table, th, td {
       font-family: Vevey;
                 border: 5px solid black;}
             {
-                background-color:green
+                background-color:burlywood 
 }
 form {
-    font-family: Bodoni;
+    font-family: Kilowatt;
 }
